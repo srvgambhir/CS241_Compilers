@@ -1,0 +1,291 @@
+80
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+(
+)
+{
+}
+=
+!
+<
+>
++
+-
+*
+/
+%
+,
+;
+[
+]
+&
+26
+Start
+Zero
+ID
+NUM
+LPAREN
+RPAREN
+LBRACE
+RBRACE
+BECOMES
+EQ
+Exclamation
+NE
+LT
+GT
+LE
+GE
+PLUS
+MINUS
+STAR
+SLASH
+PCT
+COMMA
+SEMI
+LBRACK
+RBRACK
+AMP
+Start
+24
+Zero
+ID
+NUM
+LPAREN
+RPAREN
+LBRACE
+RBRACE
+BECOMES
+EQ
+NE
+LT
+GT
+LE
+GE
+PLUS
+MINUS
+STAR
+SLASH
+PCT
+COMMA
+SEMI
+LBRACK
+RBRACK
+AMP
+156
+Start a ID
+Start b ID
+Start c ID
+Start d ID
+Start e ID
+Start f ID
+Start g ID
+Start h ID
+Start i ID
+Start j ID
+Start k ID
+Start l ID
+Start m ID
+Start n ID
+Start o ID
+Start p ID
+Start q ID
+Start r ID
+Start s ID
+Start t ID
+Start u ID
+Start v ID
+Start w ID
+Start x ID
+Start y ID
+Start z ID
+Start A ID
+Start B ID
+Start C ID
+Start D ID
+Start E ID
+Start F ID
+Start G ID
+Start H ID
+Start I ID
+Start J ID
+Start K ID
+Start L ID
+Start M ID
+Start N ID
+Start O ID
+Start P ID
+Start Q ID
+Start R ID
+Start S ID
+Start T ID
+Start U ID
+Start V ID
+Start W ID
+Start X ID
+Start Y ID
+Start Z ID
+ID a ID
+ID b ID
+ID c ID
+ID d ID
+ID e ID
+ID f ID
+ID g ID
+ID h ID
+ID i ID
+ID j ID
+ID k ID
+ID l ID
+ID m ID
+ID n ID
+ID o ID
+ID p ID
+ID q ID
+ID r ID
+ID s ID
+ID t ID
+ID u ID
+ID v ID
+ID w ID
+ID x ID
+ID y ID
+ID z ID
+ID A ID
+ID B ID
+ID C ID
+ID D ID
+ID E ID
+ID F ID
+ID G ID
+ID H ID
+ID I ID
+ID J ID
+ID K ID
+ID L ID
+ID M ID
+ID N ID
+ID O ID
+ID P ID
+ID Q ID
+ID R ID
+ID S ID
+ID T ID
+ID U ID
+ID V ID
+ID W ID
+ID X ID
+ID Y ID
+ID Z ID
+ID 0 ID
+ID 1 ID
+ID 2 ID
+ID 3 ID
+ID 4 ID
+ID 5 ID
+ID 6 ID
+ID 7 ID
+ID 8 ID
+ID 9 ID
+Start 0 Zero
+Start 1 NUM
+Start 2 NUM
+Start 3 NUM
+Start 4 NUM
+Start 5 NUM
+Start 6 NUM
+Start 7 NUM
+Start 8 NUM
+Start 9 NUM
+NUM 0 NUM
+NUM 1 NUM
+NUM 2 NUM
+NUM 3 NUM
+NUM 4 NUM
+NUM 5 NUM
+NUM 6 NUM
+NUM 7 NUM
+NUM 8 NUM
+NUM 9 NUM
+Start - MINUS
+Start ( LPAREN
+Start ) RPAREN
+Start { LBRACE
+Start } RBRACE
+Start = BECOMES
+BECOMES = EQ
+Start ! Exclamation
+Exclamation = NE
+Start < LT
+LT = LE
+Start > GT
+GT = GE
+Start + PLUS
+Start * STAR
+Start / SLASH
+Start % PCT
+Start , COMMA
+Start ; SEMI
+Start [ LBRACK
+Start ] RBRACK
+Start & AMP

@@ -1,0 +1,5 @@
+.word 0x48656C6C
+.word 0x6F0a6672
+.word 0x6F6D204C
+.word 0x696E7578
+.word 0x2121210a

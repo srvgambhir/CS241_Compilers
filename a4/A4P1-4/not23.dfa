@@ -1,0 +1,31 @@
+2
+0
+1
+8
+start
+zero
+0mod2,0mod3
+0mod2,1mod3
+0mod2,2mod3
+1mod2,0mod3
+1mod2,1mod3
+1mod2,2mod3
+start
+2
+1mod2,1mod3
+1mod2,2mod3
+14
+start 0 zero
+start 1 1mod2,1mod3
+0mod2,0mod3 0 0mod2,0mod3
+0mod2,0mod3 1 1mod2,1mod3
+0mod2,1mod3 0 0mod2,2mod3
+0mod2,1mod3 1 1mod2,0mod3
+0mod2,2mod3 0 0mod2,1mod3
+0mod2,2mod3 1 1mod2,2mod3
+1mod2,0mod3 0 0mod2,0mod3
+1mod2,0mod3 1 1mod2,1mod3
+1mod2,1mod3 0 0mod2,2mod3
+1mod2,1mod3 1 1mod2,0mod3
+1mod2,2mod3 0 0mod2,1mod3
+1mod2,2mod3 1 1mod2,2mod3

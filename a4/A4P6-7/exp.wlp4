@@ -1,0 +1,27 @@
+// exponent calc: x^n
+
+int wain(int x, int n) {
+	int y = 1;
+	int evenCheck = 0;
+	int result = 1;
+	if (n == 0) {
+		x = 1;
+	}
+	else {
+		while (n > 1) {
+			evenCheck = n % 2;
+			if (evenCheck == 0) {
+				x = x * x;
+				n = n / 2;
+			}
+			else {
+				y = x * y;
+				x = x * x;
+				n = n - 1;
+				n = n / 2;
+			}
+		}
+	}
+	result = x * y;
+	return result;
+}

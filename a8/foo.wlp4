@@ -1,0 +1,14 @@
+int wain(int a, int b) {
+    int x = 3;
+    int y = 4;
+    int c = 5;
+    int d = 6;
+    a = x-b+d+y;
+    b = d-y+c+c;
+    c = x*x+d;
+    d = d/x*c+a+b+c;
+    a = x-y;
+    x = x-a;
+    y = a+y;
+    return a+b+c+d+x+y;
+}

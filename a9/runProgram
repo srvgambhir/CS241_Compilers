@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cat foo.wlp4 | wlp4scan | wlp4parse | ./wlp4gen | cs241.linkasm > output.merl
+cs241.linker output.merl print.merl alloc.merl > linked.merl
+cs241.merl 0 < linked.merl > final.mips
+rm linked.merl output.merl

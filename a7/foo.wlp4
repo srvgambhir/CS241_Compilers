@@ -1,0 +1,13 @@
+int proc1(int* a) { return 1; }
+int isInteger(int id) { return 0; }
+int wain(int* a, int b) {
+int *f = NULL;
+int *z = NULL;
+int *g = NULL;
+  
+int c = 0;
+  int d = 0;
+int isInteger = 0;
+z = c;
+  return isInteger(proc1(a));
+}
