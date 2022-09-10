@@ -1,6 +1,6 @@
 # CS241_Compilers
 
-As a course long project in CS 241, we built a compiler for the WLP4 Programming languages. WLP4 is a simplied version of C++, with each program consisting of a series of C++ functions, the last of which is the main function (this main function is called wain).
+As a course long project in CS 241, we built a compiler for the WLP4 Programming languages. WLP4 is a simplied version of C, with each program consisting of a series of C functions, the last of which is the main function (this main function is called wain).
 
 Starting from a .wlp4 source file the complete sequence of commands to generate MIPS machine language and run it is:
 
